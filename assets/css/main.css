@@ -936,19 +936,47 @@ table tfoot td {
   background-color: #ffffff;
 }
 
+.sidebar a {
+  color: #6b6b6b;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  transition: color .15s ease-in-out;
+  color: #515151;
+  text-decoration: none;
+}
+
+.nav-item {
+  text-align: center;
+  display: table;
+  padding-left: 4.5rem;
+  list-style-type: none;
+}
+
+.nav-link {
+  font-size: 0.95rem;
+  font-weight: 540;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+
+.nav-item li {
+  height: 2rem;
+}
+
 .about {
   margin: 0 0 40px;
   text-align: center;
 }
 
 .about .cover-author-image {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #333030;
 }
 
 .about img {
@@ -975,25 +1003,14 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #333030;
+  color: #515151;
   font-weight: 700;
 }
 
-.about .author-name::after {
-  content: "";
-  position: absolute;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-          transform: translateX(-50%);
-  bottom: 0;
-  display: block;
-  width: 7px;
-  height: 7px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
-  background-color: #515151;
+.about .author-about {
+  color: #6b6b6b;
 }
+
 
 .about p {
   font-size: 16px;
@@ -1023,7 +1040,7 @@ table tfoot td {
 
 .contact .contact-title {
   position: relative;
-  color: #333030;
+  color: #6b6b6b;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1088,7 +1105,7 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
-  color: #333030;
+  color: #6b6b6b;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
           transform: scale(1.2);

@@ -1,0 +1,14 @@
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+- title: Home
+  url: /
+
+- title: Projects
+  url: projects.html
+
+- title: About
+  url: /about/
+
+- title: Contact
+  url: /contact/
