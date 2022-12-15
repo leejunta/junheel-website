@@ -12,14 +12,55 @@ description: MirrorHR at Microsoft
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.raw.githubusercontent.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
+## Project Brief
+
 MirrorHR - Epilepsy Research Kit for Kids (by the FightTheStroke Foundation) is an application designed to offers caregivers of children living with epilepsy a nighttime monitoring solution and video diary that uses artificial intelligence to detect early signs of a seizure, allowing them to intervene and provide treatment. In addition, it helps doctors to understand better potential triggers for seizures leading to behavioral changes aiming to reduce the number and severity of seizures. The system uses an Apple Watch for real-time monitoring and leverages Apple Health to track health data. By using heart rate data, an in-app journal and video diary, caregivers can record daily changes in the child's health and ultimately help doctors improve the wellbeing of children with epilepsy.
 
 <p align="center">
     <img align="center" src="/assets/img/mirrorhr-demo.jpeg" width="500">
 </p>
 
-As part of the One Week Microsoft Hackathon, 29 Microsoft volunteers worked to prototype this application from April 2019 till the end of the Hackathon in July 2019. 
+As part of the One Week Microsoft Hackathon, 29 Microsoft volunteers worked to prototype this application from April 2019 till the end of the Hackathon in July 2019. The goal was to:
+ - Establish all the data connections to and from an Apple Watch, an Apple iPhone, and cloud databases
+ - Lay the foundation to use resulting data for data aggregations and ML/AI models for early seizure detection
+ - Prototype a web dashboard to display aggregate analytics for caregivers to understand broader patterns
 
+My focus on this project was the last objective. 
+
+## Process
+
+From talking with two caregivers who would eventually use this application, we intentionally designed the phone application to only focus on time sensitive care and separated analytic data into a web dashboard. As shown in the screenshot above, the phone application only shows the raw heart rate data over the course of a night, with the added capability of viewing longer historical data. The other tabs of the phone application are also limited, by focusing on collecting other data such as video logs and journal entries. 
+
+We designed the dashboard to provide caregivers with two connected views: 
+ - Overall Summary (date range)
+
+This is the default dashboard page. From this page, users could get 3 kinds of summary information: typical sleep behavior (sleeping hours, heart rate range, etc.), anomolous sleep behavior (nights with seizures/alarms), and anomolous daytime behavior (negative mood, unusual food intake, missed medication). The caregiver can specify the week or month of interest (or custom date range) to view each type of summary information.
+
+*Note: unfortunately I no longer have access to a screenshot of this page.*
+
+ - Detailed Behavior (specific day)
+
+ From the Overall Summary, caregivers can select a day of interest to view the raw data from the phone application. This information is redundant to what the phone application provides but allows caregivers to maintain the flow of information to dive deeper into understanding patterns. 
+
+<p align="center">
+    <img align="center" src="/assets/img/mirrorhr-dashboard-ss.jpeg">
+</p>
+
+## Reflection
+
+All my prior experience developing and designing dashboards were in the context of driving and tracking business metrics, so this project expanded my approach in building a mission-driven and human-centered product.
+
+ - When building any aspect of an application, building deep empathy and understanding of the end-user adds depth and intentionality in how one develops. This project had so much passion and care driving its progress that it was easy to match the care and attention to detail that goes into helping this vulnerable population. The mentality of obsessing about what the end user wants out of a product is equally applicable in other settings and should be applied to build other successful products. 
+
+ - Despite most of the hours of the project being backloaded into the actual One Week Hackathon in July, the frequent planning and bonding among team members contributed greatly to a smooth workflow across focus areas. We had teams from many time zones working asyncronously on the application, but because we had previously focused on aligning on the mission and truly understanding the story behind the project, there was mutual understanding of what areas needed additional help and how individuals could contribute based on their own expertise. 
+
+ - Lastly, I learned to work with individuals from all types of disciplines to do my best work. This group of 29 Microsoft employees spanned many disciplines from designers to engineers to lawyers. In particular, I worked with the legal experts in navigating the limits of health-related private personal information (PPI), designers to design the dashboard with consistency across systems, data engineers to ensure proper data connections, and story tellers to ensure the elements in the dashboard aligned with the vision of the product. 
+
+ This project when on to win the Grand Prize at the Microsoft One Week Hackathon, in addition to 1st place in the AI for Accessibility Hack Challenge and 1st place in the Health AI Hack Challenge. You can read more about the project in this [Forbes article](https://www.forbes.com/sites/afdhelaziz/2020/09/15/the-mirrorhr-project-how-a-team-of-microsoft-employees-created-an-early-warning-system-for-kids-with-epilepsy/?sh=5adb0cc86e6f) or our final story video:
+
+<p align="center">
+    <a href="https://youtu.be/3l8fWDcyDE8"><img src="/assets/img/mirrorhr-play.png" width="600"></a>
+</p>
 
 
 ## References
