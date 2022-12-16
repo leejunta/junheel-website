@@ -4,11 +4,8 @@ tabs:
 - title: Home
   url: /
 
-- title: Projects
-  url: projects.html
-
 - title: About
   url: /about/
 
-- title: Contact
+- title: Resume
   url: /contact/
