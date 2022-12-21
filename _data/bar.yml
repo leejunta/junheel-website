@@ -4,8 +4,8 @@ tabs:
 - title: Home
   url: /
 
-- title: About
-  url: /about/
+#- title: About
+#  url: /about/
 
 - title: Resume
   url: /resume/

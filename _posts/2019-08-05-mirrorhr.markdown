@@ -12,6 +12,12 @@ description: MirrorHR at Microsoft
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.raw.githubusercontent.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
+## Table of Contents
+1. [Project Brief](#project-brief)
+2. [Process](#process)
+3. [Reflection](#reflection)
+4. [References](#references)
+
 ## Project Brief
 
 MirrorHR - Epilepsy Research Kit for Kids (by the FightTheStroke Foundation) is an application designed to offers caregivers of children living with epilepsy a nighttime monitoring solution and video diary that uses artificial intelligence to detect early signs of a seizure, allowing them to intervene and provide treatment. In addition, it helps doctors to understand better potential triggers for seizures leading to behavioral changes aiming to reduce the number and severity of seizures. The system uses an Apple Watch for real-time monitoring and leverages Apple Health to track health data. By using heart rate data, an in-app journal and video diary, caregivers can record daily changes in the child's health and ultimately help doctors improve the wellbeing of children with epilepsy.

@@ -11,6 +11,11 @@ img: hypergroups-front.jpeg
 description: Realizing Hypergroups as Association Schemes
 ---
 
+## Table of Contents
+1. [Project Brief](#project-brief)
+3. [Reflection](#reflection)
+4. [References](#references)
+
 ## Project Brief
 
 Foundational to the undergraduate study of mathematics is understanding an algebraic structures called *groups*. A group consists of a set of elements and an operation that combines two elements and results in a third. The operation must also satisfy four properties (closure, associativity, identity, and invertibility). A simple example of a group is the set of all integers with the addition operation. As simple as they are, groups have been used to understand many physical phenomena because of an important theorem called *Cayley's Theorem*. Mathematician Arthur Cayley showed that every group is isomorphic to a group of permutations. In simple terms, groups can be used as a mathematical foundation to studying how any set of objects can be rearranged. For example, a Rubik's cube and its solutions can be fully described by using groups. Cayley's theorem shows us that we can realize groups as permutation groups.

@@ -36,9 +36,9 @@ Demographic information  continues to affect employment status more despite the 
 usage of technology for employment.*
 
 The 2008 Financial Crisis was the worst financial crisis since The Great
-Depression, decreasing employment by 8.8 million in just 14 months<sup>1</sup>. 
+Depression, decreasing employment by 8.8 million in just 14 months<sup>[1](#1)</sup>. 
 The US has since dropped its overall unemployment rate to 4.5% in March,
-2017<sup>2</sup>. Knowing what factors 
+2017<sup>[2](#2)</sup>. Knowing what factors 
 decrease unemployment rate helps the government enact social policies more
 effectively. Given the increased use of the internet for job postings and
 applications, the resurgence of the employment rate can be partially
@@ -95,7 +95,7 @@ unemployed group.
 Title I of the Americans with Disabilities Act Amendments Act (ADAAA), the
 updated version of the Americans with Disabilities Act, requires 
 employers to provide reasonable accomodations to qualified applicants or
-employees, with the exception of companies with fewer than 15 employees<sup>3</sup>. The data 
+employees, with the exception of companies with fewer than 15 employees<sup>[3](#3)</sup>. The data 
 suggests that either accomodations are insufficient, employers are not complying
 with this law, or people with disabilities are unqualified for most available
 jobs. We find it highly unlikely that people with disabilities are unemployable. 
@@ -115,9 +115,9 @@ resonable model, for that matter) is highly problematic.
 ### Gender roles pertaining to parenting may drive women out of the workforce
 
 The current maternity leave policy in the US, the Family and Medical Leave Act, 
-(FMLA) provides most US employees with upto 12 weeks of unpaid maternal leave<sup>4</sup>.
+(FMLA) provides most US employees with upto 12 weeks of unpaid maternal leave<sup>[4](#4)</sup>.
 In contrast, in 2015, Slovak Republic offer up to 160 week of paid maternity or
-paternity leave<sup>5</sup>. Among the 35 Organisation for Economic Co-operation and 
+paternity leave<sup>[5](#5)</sup>. Among the 35 Organisation for Economic Co-operation and 
 Development (OECD) countries, the US is the only country with no paid maternity
 leave. Exploring employment status by sex and age, we find that the only
 deviation of pattern for all factors is the relative increase in unemployment
@@ -126,7 +126,7 @@ decreased.
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/leejunta/Employment/master/figures/ageempsex.png">
 </p>
-In 2014, the average age of mothers at first birth was 26.3 years<sup>6</sup>, where 
+In 2014, the average age of mothers at first birth was 26.3 years<sup>[6](#6)</sup>, where 
 women's unemployment rate increases in
 our data. This could suggest that women's drop in employment may be attributed
 to the lack of support for maternity leave. Exploring how unemployment differs
@@ -171,24 +171,24 @@ Please feel free to follow the code for this analysis!
 
 <sup>0</sup> Cover image from [biz women the business journals](https://www.bizjournals.com/bizwomen/news/latest-news/2021/09/ai-hiring-women-employment-gaps.html?page=all). No copyright infringement is intended.
 
-<sup>1</sup> Bureau of Labor Statistics (Apr 2017). *Labor Force Statistics from the Current Population Survey*. Retrieved from:  
-<https://data.bls.gov/timeseries/LNS14000000>  
+<a name="1"><sup>1</sup></a> Bureau of Labor Statistics (Apr 2017). *Labor Force Statistics from the Current Population Survey*. Retrieved from:  
+<https://data.bls.gov/timeseries/LNS14000000>.  
 
-<sup>2</sup> Bureau of Labor Statistics (Apr 2011). *Employment loss and the 2007–09
+<a name="2"><sup>2</sup></a> Bureau of Labor Statistics (Apr 2011). *Employment loss and the 2007–09
 recession: an overview*. Retrieved from:  
-<https://www.bls.gov/mlr/2011/04/art1full.pdf>  
+<https://www.bls.gov/mlr/2011/04/art1full.pdf>.  
 
-<sup>3</sup> ADA National Network. *What is the Americans with Disabilities Act (ADA)?*.
+<a name="3"><sup>3</sup></a> ADA National Network. *What is the Americans with Disabilities Act (ADA)?*.
 Retrieved from:  
-<https://adata.org/learn-about-ada>  
+<https://adata.org/learn-about-ada>.  
 
-<sup>4</sup> United Census Bureau (Jul 2012). *Nearly 1 in 5 People Have a Disability in the U.S., Census Bureau Reports*. Retrieved from:  
-<https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html>  
+<a name="4"><sup>4</sup></a> United Census Bureau (Jul 2012). *Nearly 1 in 5 People Have a Disability in the U.S., Census Bureau Reports*. Retrieved from:  
+<https://www.census.gov/newsroom/releases/archives/miscellaneous/cb12-134.html>.  
 
-<sup>5</sup> OECD (Apr 2016). *PF2.5. Trends in parental leave policies since 1970*.
+<a name="5"><sup>5</sup></a> OECD (Apr 2016). *PF2.5. Trends in parental leave policies since 1970*.
 Retrieved from:  
-<http://www.oecd.org/els/family/PF2_5_Trends_in_leave_entitlements_around_childbirth.pdf>  
+<http://www.oecd.org/els/family/PF2_5_Trends_in_leave_entitlements_around_childbirth.pdf>.  
 
-<sup>6</sup> Centers for Disease Control and Prevention (Jan 2016). *Mean Age of Mothers is on the Rise: United States, 2000–2014*. Retrieved from:  
-<https://www.cdc.gov/nchs/products/databriefs/db232.htm>  
+<a name="6"><sup>6</sup></a> Centers for Disease Control and Prevention (Jan 2016). *Mean Age of Mothers is on the Rise: United States, 2000–2014*. Retrieved from:  
+<https://www.cdc.gov/nchs/products/databriefs/db232.htm>.  
 
