@@ -34,4 +34,4 @@ In particular, I studied all 37 known nonsymmetric hypergroups of rank 4 to prov
 
 ## References
 
-https://i.ytimg.com/vi/5cSb8kwyrMM/maxresdefault.jpg
+<sup>0</sup> Cover image from [Cube For Speed (YouTube)](https://www.youtube.com/watch?v=5cSb8kwyrMM). No copyright infringement is intended.
