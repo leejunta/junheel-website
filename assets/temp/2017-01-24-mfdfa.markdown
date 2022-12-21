@@ -13,6 +13,8 @@ description: Cascade-Driven Series with Narrower Multifractal Spectra Than Their
 
 ## Project Brief
 
+<iframe src="/assets/doc/2017_LeeKeltyStephen.pdf" width="100%" height="400px"></iframe>
+
 ## Process
 
 ## Reflection
