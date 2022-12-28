@@ -20,7 +20,7 @@ description: MirrorHR at Microsoft
 
 ## Project Brief
 
-MirrorHR - Epilepsy Research Kit for Kids (by the FightTheStroke Foundation) is an application designed to offers caregivers of children living with epilepsy a nighttime monitoring solution and video diary that uses artificial intelligence to detect early signs of a seizure, allowing them to intervene and provide treatment. In addition, it helps doctors to understand better potential triggers for seizures leading to behavioral changes aiming to reduce the number and severity of seizures. The system uses an Apple Watch for real-time monitoring and leverages Apple Health to track health data. By using heart rate data, an in-app journal and video diary, caregivers can record daily changes in the child's health and ultimately help doctors improve the wellbeing of children with epilepsy.
+MirrorHR - Epilepsy Research Kit for Kids (by the FightTheStroke Foundation) is an application designed for caregivers of children living with epilepsy a nighttime monitoring solution and video diary that uses artificial intelligence to detect early signs of a seizure, allowing them to intervene and provide treatment. In addition, the app helps doctors better understand potential triggers for seizures, reducing the number and severity of seizures. The system uses an Apple Watch for real-time monitoring and leverages Apple Health to track health data. By using heart rate data, an in-app journal and video diary, caregivers can record daily changes in the child's health and ultimately help doctors improve the wellbeing of children with epilepsy.
 
 <p align="center">
     <img align="center" src="/assets/img/mirrorhr-demo.jpeg" width="500">
@@ -40,7 +40,7 @@ From talking with two caregivers who would eventually use this application, we i
 We designed the dashboard to provide caregivers with two connected views: 
  - Overall Summary (date range)
 
-This is the default dashboard page. From this page, users could get 3 kinds of summary information: typical sleep behavior (sleeping hours, heart rate range, etc.), anomolous sleep behavior (nights with seizures/alarms), and anomolous daytime behavior (negative mood, unusual food intake, missed medication). The caregiver can specify the week or month of interest (or custom date range) to view each type of summary information.
+This is the default dashboard page. From this page, users could get 3 kinds of summary information: typical sleep behavior (sleeping hours, heart rate range, etc.), anomalous sleep behavior (nights with seizures/alarms), and anomalous daytime behavior (negative mood, unusual food intake, missed medication). The caregiver can specify the week or month of interest (or custom date range) to view each type of summary information.
 
 *Note: unfortunately I no longer have access to a screenshot of this page.*
 
@@ -58,7 +58,7 @@ All my prior experience developing and designing dashboards were in the context 
 
  - When building any aspect of an application, building deep empathy and understanding of the end-user adds depth and intentionality in how one develops. This project had so much passion and care driving its progress that it was easy to match the care and attention to detail that goes into helping this vulnerable population. The mentality of obsessing about what the end user wants out of a product is equally applicable in other settings and should be applied to build other successful products. 
 
- - Despite most of the hours of the project being backloaded into the actual One Week Hackathon in July, the frequent planning and bonding among team members contributed greatly to a smooth workflow across focus areas. We had teams from many time zones working asyncronously on the application, but because we had previously focused on aligning on the mission and truly understanding the story behind the project, there was mutual understanding of what areas needed additional help and how individuals could contribute based on their own expertise. 
+ - Despite most of the hours of the project being backloaded into the actual One Week Hackathon in July, the frequent planning and bonding among team members contributed greatly to a smooth workflow across focus areas. We had teams from many time zones working asynchronously on the application, but because we had previously focused on aligning on the mission and truly understanding the story behind the project, there was mutual understanding of what areas needed additional help and how individuals could contribute based on their own expertise. 
 
  - Lastly, I learned to work with individuals from all types of disciplines to do my best work. This group of 29 Microsoft employees spanned many disciplines from designers to engineers to lawyers. In particular, I worked with the legal experts in navigating the limits of health-related private personal information (PPI), designers to design the dashboard with consistency across systems, data engineers to ensure proper data connections, and story tellers to ensure the elements in the dashboard aligned with the vision of the product. 
 
